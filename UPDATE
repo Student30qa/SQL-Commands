@@ -1,0 +1,5 @@
+UPDATE table_name
+SET some_column = some_value
+WHERE some_column = some_value;
+
+UPDATE statements allow you to edit rows in a table.
