@@ -1,0 +1,8 @@
+CREATE TABLE table_name (
+  column_1 datatype, 
+  column_2 datatype, 
+  column_3 datatype
+);
+
+CREATE TABLE creates a new table in the database. 
+It allows you to specify the name of the table and the name of each column in the table.
