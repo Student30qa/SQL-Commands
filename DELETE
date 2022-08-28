@@ -1,0 +1,4 @@
+DELETE FROM table_name
+WHERE some_column = some_value;
+
+DELETE statements are used to remove rows from a table.
