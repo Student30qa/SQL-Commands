@@ -1,0 +1,6 @@
+SELECT column_name
+FROM table_name
+ORDER BY column_name ASC | DESC;
+
+ORDER BY is a clause that indicates you want to sort the result set by 
+a particular column either alphabetically or numerically.
