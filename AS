@@ -1,0 +1,4 @@
+SELECT column_name AS 'Alias'
+FROM table_name;
+
+AS is a keyword in SQL that allows you to rename a column or table using an alias.
