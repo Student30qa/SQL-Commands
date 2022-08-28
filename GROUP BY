@@ -1,0 +1,6 @@
+SELECT column_name, COUNT(*)
+FROM table_name
+GROUP BY column_name;
+
+GROUP BY is a clause in SQL that is only used with aggregate functions.
+ It is used in collaboration with the SELECT statement to arrange identical data into groups.
