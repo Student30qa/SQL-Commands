@@ -1,0 +1,4 @@
+SELECT AVG(column_name)
+FROM table_name;
+
+AVG() is an aggregate function that returns the average value for a numeric column.
