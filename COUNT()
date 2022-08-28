@@ -1,0 +1,5 @@
+SELECT COUNT(column_name)
+FROM table_name;
+
+COUNT() is a function that takes the name of a column as an argument 
+ and counts the number of rows where the column is not NULL.
