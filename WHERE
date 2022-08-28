@@ -1,0 +1,6 @@
+SELECT column_name(s)
+FROM table_name
+WHERE column_name operator value;
+
+WHERE is a clause that indicates you want to filter the result 
+set to include only rows where the following condition is true.
