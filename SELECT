@@ -1,0 +1,4 @@
+SELECT column_name 
+FROM table_name;
+
+SELECT statements are used to fetch data from a database. Every query will begin with SELECT.
