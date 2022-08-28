@@ -1,0 +1,4 @@
+ALTER TABLE table_name 
+ADD column_name datatype;
+
+ALTER TABLE lets you add columns to a table in a database.
