@@ -1,0 +1,5 @@
+SELECT column_name(s)
+FROM table_name
+LIMIT number;
+
+LIMIT is a clause that lets you specify the maximum number of rows the result set will have.
