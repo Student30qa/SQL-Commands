@@ -1,0 +1,5 @@
+SELECT column_name(s)
+FROM table_name
+WHERE column_name LIKE pattern;
+
+LIKE is a special operator used with the WHERE clause to search for a specific pattern in a column.
