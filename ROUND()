@@ -1,0 +1,5 @@
+SELECT ROUND(column_name, integer)
+FROM table_name;
+
+ROUND() is a function that takes a column name and an integer as arguments.
+It rounds the values in the column to the number of decimal places specified by the integer.
