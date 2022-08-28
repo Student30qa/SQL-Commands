@@ -1,0 +1,11 @@
+WITH temporary_name AS (
+   SELECT *
+   FROM table_name)
+SELECT *
+FROM temporary_name
+WHERE column_name operator value;
+
+WITH clause lets you store the result of a query in a temporary table using an alias. 
+You can also define multiple temporary tables using a comma and with one instance of the WITH keyword.
+
+The WITH clause is also known as common table expression (CTE) and subquery factoring.
