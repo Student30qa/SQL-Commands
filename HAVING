@@ -4,3 +4,7 @@ GROUP BY column_name
 HAVING COUNT(*) > value;
 
 HAVING was added to SQL because the WHERE keyword could not be used with aggregate functions.
+
+When we want to limit the results of a query based on values of the individual rows, use WHERE.
+
+When we want to limit the results of a query based on an aggregate property, use HAVING.
